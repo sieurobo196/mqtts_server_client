@@ -1,0 +1,20 @@
+{"level":"info","message":"Mosca server is up and running","timestamp":"2017-10-06T10:17:51.830Z"}
+{"level":"info","message":"Mosca server is up and running","timestamp":"2017-10-06T10:22:22.906Z"}
+{"level":"info","message":"client connected: client1","timestamp":"2017-10-06T10:22:29.959Z"}
+{"level":"info","message":"Published: client1","timestamp":"2017-10-06T10:22:29.961Z"}
+{"level":"info","message":"subscribed: topic_user2","timestamp":"2017-10-06T10:22:29.967Z"}
+{"level":"info","message":"Published: {\"clientId\":\"client1\",\"topic\":\"topic_user2\"}","timestamp":"2017-10-06T10:22:29.968Z"}
+{"level":"info","message":"client connected: client2","timestamp":"2017-10-06T10:22:33.173Z"}
+{"level":"info","message":"Published: client2","timestamp":"2017-10-06T10:22:33.174Z"}
+{"level":"info","message":"subscribed: topic_user1","timestamp":"2017-10-06T10:22:33.180Z"}
+{"level":"info","message":"Published: {\"clientId\":\"client2\",\"topic\":\"topic_user1\"}","timestamp":"2017-10-06T10:22:33.182Z"}
+{"level":"info","message":"Published: user1: message 1","timestamp":"2017-10-06T10:22:49.973Z"}
+{"level":"info","message":"Published: user2 : message 1","timestamp":"2017-10-06T10:22:53.186Z"}
+{"level":"info","message":"subscribed: topic_user2","timestamp":"2017-10-06T10:22:55.339Z"}
+{"level":"info","message":"client Disconnected: client1","timestamp":"2017-10-06T10:22:55.339Z"}
+{"level":"info","message":"Published: {\"clientId\":\"client1\",\"topic\":\"topic_user2\"}","timestamp":"2017-10-06T10:22:55.341Z"}
+{"level":"info","message":"Published: client1","timestamp":"2017-10-06T10:22:55.342Z"}
+{"level":"info","message":"subscribed: topic_user1","timestamp":"2017-10-06T10:22:56.126Z"}
+{"level":"info","message":"client Disconnected: client2","timestamp":"2017-10-06T10:22:56.128Z"}
+{"level":"info","message":"Published: {\"clientId\":\"client2\",\"topic\":\"topic_user1\"}","timestamp":"2017-10-06T10:22:56.128Z"}
+{"level":"info","message":"Published: client2","timestamp":"2017-10-06T10:22:56.129Z"}
