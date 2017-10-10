@@ -1,0 +1,18 @@
+{"level":"info","message":"client connected: user1","timestamp":"2017-10-10T09:29:47.791Z"}
+{"level":"info","message":"Published: user1","timestamp":"2017-10-10T09:29:47.793Z"}
+{"level":"info","message":"subscribed: topic_user2","timestamp":"2017-10-10T09:29:47.796Z"}
+{"level":"info","message":"Published: {\"clientId\":\"user1\",\"topic\":\"topic_user2\"}","timestamp":"2017-10-10T09:29:47.798Z"}
+{"level":"info","message":"client connected: user2","timestamp":"2017-10-10T09:29:50.264Z"}
+{"level":"info","message":"Published: user2","timestamp":"2017-10-10T09:29:50.265Z"}
+{"level":"info","message":"subscribed: topic_user1","timestamp":"2017-10-10T09:29:50.270Z"}
+{"level":"info","message":"Published: {\"clientId\":\"user2\",\"topic\":\"topic_user1\"}","timestamp":"2017-10-10T09:29:50.271Z"}
+{"level":"info","message":"Published: user1: message 1","timestamp":"2017-10-10T09:29:57.802Z"}
+{"level":"info","message":"Published: user2 : message 1","timestamp":"2017-10-10T09:30:00.271Z"}
+{"level":"info","message":"subscribed: topic_user2","timestamp":"2017-10-10T09:30:07.565Z"}
+{"level":"info","message":"client Disconnected: user1","timestamp":"2017-10-10T09:30:07.566Z"}
+{"level":"info","message":"Published: {\"clientId\":\"user1\",\"topic\":\"topic_user2\"}","timestamp":"2017-10-10T09:30:07.568Z"}
+{"level":"info","message":"Published: user1","timestamp":"2017-10-10T09:30:07.569Z"}
+{"level":"info","message":"subscribed: topic_user1","timestamp":"2017-10-10T09:30:08.518Z"}
+{"level":"info","message":"client Disconnected: user2","timestamp":"2017-10-10T09:30:08.519Z"}
+{"level":"info","message":"Published: {\"clientId\":\"user2\",\"topic\":\"topic_user1\"}","timestamp":"2017-10-10T09:30:08.521Z"}
+{"level":"info","message":"Published: user2","timestamp":"2017-10-10T09:30:08.521Z"}
